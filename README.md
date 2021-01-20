@@ -1,2 +1,2 @@
 # POS-System
- A Java Swin POS system
+ A Java Swing POS system
